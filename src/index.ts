@@ -7,3 +7,4 @@ fetch("pages/start.html")
     rootElem.innerHTML = html;
     //}
   });
+//lol
